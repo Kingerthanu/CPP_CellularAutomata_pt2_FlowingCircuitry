@@ -6,6 +6,16 @@ Another File Dump Of OpenGL renderer. Cleaned up some things as well as did some
 
  This helped me a lot get a feeling for cosine's usage in all this as well for less bloaty expansions.
 
+----------------------------------------------------------------------------
+
+<img src="https://github.com/Kingerthanu/CPP_3D_OpenGLEngine/assets/76754592/77fc6299-bc4f-479c-a927-0295775ace8c" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_3D_OpenGLEngine/assets/76754592/77fc6299-bc4f-479c-a927-0295775ace8c" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_3D_OpenGLEngine/assets/76754592/77fc6299-bc4f-479c-a927-0295775ace8c" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_3D_OpenGLEngine/assets/76754592/77fc6299-bc4f-479c-a927-0295775ace8c" alt="Cornstarch <3" width="55" height="49">
+
+
+**The Breakdown:**
+
+
+------------------------------------------------------------------------------
+
 ![thePrinkle-ezgif com-optimize](https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_FlowingCircuitry/assets/76754592/7a281e6b-27f8-4e0d-bb50-41a2cb2d8ab1)
 
 <img width="950" alt="image" src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_FlowingCircuitry/assets/76754592/e93b7b2d-451a-4a08-98e0-5a29fd9cc792">
