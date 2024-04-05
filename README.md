@@ -20,7 +20,7 @@ Another File Dump Of OpenGL renderer. Cleaned up some things as well as did some
 
 ------------------------------------------------------------------------------
 
-<img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_FlowingCircuitry/assets/76754592/22274bc3-c6e1-4cd4-a830-c5d47d4f54dc" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_FlowingCircuitry/assets/76754592/3dffe04f-4f7e-44e2-bd07-0cd32096ee66" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_FlowingCircuitry/assets/76754592/3dffe04f-4f7e-44e2-bd07-0cd32096ee66" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_FlowingCircuitry/assets/76754592/3dffe04f-4f7e-44e2-bd07-0cd32096ee66" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_FlowingCircuitry/assets/76754592/3dffe04f-4f7e-44e2-bd07-0cd32096ee66" alt="Cornstarch <3" width="55" height="49">
 
 
 **Features:**
