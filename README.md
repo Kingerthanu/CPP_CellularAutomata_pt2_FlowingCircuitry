@@ -12,7 +12,7 @@ Another File Dump Of OpenGL renderer. Cleaned up some things as well as did some
 
 
 **The Breakdown:**
- Lorem
+ This Project D
 
 
 <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_FlowingCircuitry/assets/76754592/06482a50-ddba-44ff-aed5-d97c381d5d43" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_FlowingCircuitry/assets/76754592/06482a50-ddba-44ff-aed5-d97c381d5d43" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_FlowingCircuitry/assets/76754592/06482a50-ddba-44ff-aed5-d97c381d5d43" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_FlowingCircuitry/assets/76754592/06482a50-ddba-44ff-aed5-d97c381d5d43" alt="Cornstarch <3" width="55" height="49">
