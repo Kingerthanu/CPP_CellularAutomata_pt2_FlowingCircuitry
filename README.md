@@ -20,7 +20,7 @@ Another File Dump Of OpenGL renderer. Cleaned up some things as well as did some
 
 ------------------------------------------------------------------------------
 
-<img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_FlowingCircuitry/assets/76754592/9bc5cc1d-cef7-4da0-8c6f-df558dd183e8" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_FlowingCircuitry/assets/76754592/9bc5cc1d-cef7-4da0-8c6f-df558dd183e8" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_FlowingCircuitry/assets/76754592/9bc5cc1d-cef7-4da0-8c6f-df558dd183e8" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_FlowingCircuitry/assets/76754592/9bc5cc1d-cef7-4da0-8c6f-df558dd183e8" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_FlowingCircuitry/assets/76754592/9bc5cc1d-cef7-4da0-8c6f-df558dd183e8" alt="Cornstarch <3" width="85" height="69"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_FlowingCircuitry/assets/76754592/9bc5cc1d-cef7-4da0-8c6f-df558dd183e8" alt="Cornstarch <3" width="85" height="69"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_FlowingCircuitry/assets/76754592/9bc5cc1d-cef7-4da0-8c6f-df558dd183e8" alt="Cornstarch <3" width="85" height="69"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_FlowingCircuitry/assets/76754592/9bc5cc1d-cef7-4da0-8c6f-df558dd183e8" alt="Cornstarch <3" width="85" height="69">
 
 
 **Features:**
