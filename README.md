@@ -20,6 +20,8 @@ Another File Dump Of OpenGL renderer. Cleaned up some things as well as did some
 
 ------------------------------------------------------------------------------
 
+**Features:**
+
 ![thePrinkle-ezgif com-optimize](https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_FlowingCircuitry/assets/76754592/7a281e6b-27f8-4e0d-bb50-41a2cb2d8ab1)
 
 <img width="950" alt="image" src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_FlowingCircuitry/assets/76754592/e93b7b2d-451a-4a08-98e0-5a29fd9cc792">
