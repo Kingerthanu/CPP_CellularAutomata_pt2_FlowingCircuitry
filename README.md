@@ -12,6 +12,7 @@ Another File Dump Of OpenGL renderer. Cleaned up some things as well as did some
 
 
 **The Breakdown:**
+
  This Project Works With A 2D Grid Represented Through A Hexagonal Grid. The Grid And Mainly Its Matrix Is Used For Behaivor Between Associated Grid Cells.
 
  The Grid Cells Are All Represented With Their Own Cell Object In Which Contains Their Respective Hexagonal Vertexes In The Grid As Well As Their Alive State In Which Is Changed From On And Off Depending On Their Neighbor Alive Count As Well As In This Installment Sine Functions In Which Will Initiate Death Waves That Increase In Frequency As The Program Runs For Longer. These Death Waves Give Off Cool Visualizations Of The Cells. Because Of The Logic Defined As Well In Our React Function, We Have Current Cells Will Generate In A Pattern That At Most Entails A Connection Of 3 Alive Neighbors.
